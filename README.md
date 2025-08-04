@@ -38,6 +38,7 @@
   <a href="mailto:harshkushwaha508@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/harsh__804/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harsh__804/" height="30" width="40" /></a>
 </p>
 
 ---
