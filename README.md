@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh15888&label=Profile%20views&color=0e75b6&style=flat" alt="harsh15888" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+apps+with+Dart+%26+Flutter;Loving+clean+UIs+%2B+efficient+backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Building+apps+with+Dart+%26+Flutter;Loving+clean+UIs+%2B+efficient+backends" alt="Typing SVG" />
 </p>
 
 ---
