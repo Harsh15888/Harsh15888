@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: an **Android and IOS Development**
+- 🔭 I’m currently working on: **Android and IOS Development**
 - 🌱 I’m learning more about **state management, animations, and backend integration**
 - ⚡ Passionate about building **real-world apps with great UI/UX**
 - 💬 Ask me about **Flutter, Firebase, Dart, or anything mobile app related**
